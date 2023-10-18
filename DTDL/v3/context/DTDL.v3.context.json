@@ -1,4 +1,5 @@
 ﻿{
+  "@context": {
   "@vocab": "http://azure.com/DigitalTwins/MetaModel/undefinedTerm/",
   "dtmm": "http://azure.com/DigitalTwins/MetaModel/",
   "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -241,4 +242,5 @@
   "multiLineString": { "@id": "dtmi:standard:schema:geospatial:multiLineString;3" },
   "polygon": { "@id": "dtmi:standard:schema:geospatial:polygon;3" },
   "multiPolygon": { "@id": "dtmi:standard:schema:geospatial:multiPolygon;3" }
+ }
 }
