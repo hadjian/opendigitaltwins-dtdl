@@ -150,7 +150,8 @@
   "comment": { "@id": "dtmi:dtdl:property:comment;3" },
   "contents": {
     "@id": "dtmi:dtdl:property:contents;3",
-    "@type": "@vocab"
+    "@container": "@index",
+    "@index": "name"
   },
   "description": {
     "@id": "dtmi:dtdl:property:description;3",
